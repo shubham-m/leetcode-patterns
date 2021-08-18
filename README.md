@@ -134,4 +134,4 @@ on [14 patterns to ace any coding interview question].
 [grokking the coding interview]: https://www.educative.io/courses/grokking-the-coding-interview
 [issue]: https://github.com/SeanPrashad/leetcode-patterns/issues/new
 [blind 75 list]: https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU?utm_source=share&utm_medium=ios_app
-[14 patterns to ace any coding interview question]: https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+[14 patterns to ace any coding interview question]: https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed 
