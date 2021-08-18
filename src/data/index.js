@@ -2138,7 +2138,16 @@ const questions = [
     difficulty: 'Easy',
     premium: false,
     companies: ['Amazon', 'Microsoft', 'Bloomberg', 'Apple', 'Adobe'],
-  }
+  },
+	{
+		id: 170,
+		name: 'Number of Students Unable to Eat Lunch',
+		url: 'https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/',
+		pattern: ['Array'],
+		difficulty: 'Easy',
+		premium: false,
+		companies: ['Revise-These'],
+	}
 ];
 
 const sortBy = { Easy: 0, Medium: 1, Hard: 2 };
